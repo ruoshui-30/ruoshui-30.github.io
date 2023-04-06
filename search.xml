@@ -312,22 +312,22 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>gallery</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="收藏的原神的壁纸"><a href="#收藏的原神的壁纸" class="headerlink" title="收藏的原神的壁纸"></a>收藏的原神的壁纸</h2><p>甘雨</p><p><img src="./../img/gallery/img/2.jpg" alt=""></p><p>凌华</p><p><img src="./../img/gallery/img/3.jpg" alt=""></p>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>gallery</title>
-      <link href="/gallery/index.html"/>
-      <url>/gallery/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="收藏的原神的壁纸"><a href="#收藏的原神的壁纸" class="headerlink" title="收藏的原神的壁纸"></a>收藏的原神的壁纸</h2><p>甘雨</p><p><img src="./../img/gallery/img/2.jpg" alt=""></p><p>凌华</p><p><img src="./../img/gallery/img/3.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
